@@ -137,11 +137,9 @@ dmypy.json
 .vscode/
 
 pyautd3_link_remote_twincat/bin/
-pyautd3_link_remote_twincat/LICENSE.txt
-pyautd3_link_remote_twincat/ThirdPartyNotices.txt
 setup.cfg
 VERSION
 *.zip
 *.tar.gz
-
 *.pyi
+*.txt
